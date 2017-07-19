@@ -100,6 +100,6 @@ The neural network is able to drive on both tracks (on slow speeds for track #2)
 
 One little lesson for me was that the provided `drive.py` uses the PIL image library for reading/writing images. Training images that were opened with OpenCV libraries can lead to errors in the beginning since OpenCV stores in BGR format versus PIL does it in RGB color ordering format. However a well trained model should be able generalize to account for these types of variations.
 
-Here the link for the [video] on track 1(../code/run1.mp4).
+Here the link for the [video](../code/run1.mp4).
 
 
