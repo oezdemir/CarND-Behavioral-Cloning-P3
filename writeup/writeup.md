@@ -1,4 +1,4 @@
-# Udacity Behavioral Cloning Project
+# Behavioral Cloning Project
 
 ![](img/project.png)
 
